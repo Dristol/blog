@@ -8501,7 +8501,7 @@ function create_fragment$7(ctx) {
 					{
 						"icon": "mdi:github",
 						"link": {
-							"url": "https://github.com",
+							"url": "https://github.com/dristol",
 							"label": "Github",
 							"active": false
 						}
